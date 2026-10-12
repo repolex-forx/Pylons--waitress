@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/Pylons/waitress/commit/2b43237e9caa66f906d0f652f2519cc79ef969a5",
       "git:hexsha": "2b43237e9caa66f906d0f652f2519cc79ef969a5",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-12T01:30:00.387926+00:00"
     },
     {
       "@id": "https://repolex.ai/r/Pylons/waitress/commit/f5810eae6cb25ae4eecb67d136d032ffc451bd1f",
